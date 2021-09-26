@@ -1,0 +1,33 @@
+h1 {
+    font-size: 24px;
+    color: #38B2AC;
+}
+
+h2 {
+    font-size: 21px;
+    color: #5A67D8;
+}
+
+p {
+    font-size: 18px;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+    background-image: url("./images/Mikasa-Ackerman.jpg");
+      background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(3px);
+}
+
+footer.copyright{
+    position: fixed;
+    bottom: 20px;
+}
+
+
